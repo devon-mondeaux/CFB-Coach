@@ -38,7 +38,7 @@ Purdue, PUR, Big Ten, 50, IND, 2
 Wisconsin, WIS, Big Ten, 79, MIN, 2
 [END_CONF]
 Baylor, BAY, Big 12, 42, TCU, 1
-Houston, HOU, Big 12, 55, TTEC, 1
+West Virgina,WVU,Big 12,50,ISU,1
 Iowa State, ISU, Big 12, 65, MIZ, 1
 Texas Tech, TTEC, Big 12, 50, HOU, 1
 Kansas, KAN, Big 12, 35, KSU, 1
@@ -61,7 +61,7 @@ UCLA, UCLA, Pac-12, 50, USC, 0
 USC, USC, Pac-12, 80, UCLA, 0
 Washington, WASH, Pac-12, 78, WSU, 0
 Washington State, WSU, Pac-12, 72, WASH, 0
-Utah, UTAH, Pac-12, 69, COL, 0
+Utah, UTAH, Pac-12, 120, BYU, 0
 [END_CONF]
 Alabama, BAMA, SEC, 90, AUB, 4
 Arkansas, ARK, SEC, 55, LSU, 4
@@ -87,7 +87,7 @@ South Florida, USF, American, 70, UCF, 3
 Syracuse, SYR, American, 48, UCON, 3
 Temple, TEM, American, 43, BC, 3
 UConn, UCON, American, 40, SYR, 3
-West Virginia, WVU, American, 74, ND, 2
+Houston, HOU, American, 40, ND, 0
 [END_CONF]
 Akron, AKR, MAC, 35, KNST, 2
 Ball State, BAL, MAC, 28, NIU, 2
@@ -117,7 +117,7 @@ Western Kentucky, WKU, Conf USA, 44, ECU, 4
 [END_CONF]
 Air Force, AF, Mt West, 42, HAW, 0
 Boise State, BOIS, Mt West, 64, SDSU, 0
-BYU, BYU, Mt West, 32, UTST, 0
+BYU, BYU, Mt West, 32, UTAH, 0
 Colorado State, CSU, Mt West, 47, WYO, 0
 Fresno State, FRES, Mt West, 42, SJSU, 0
 Hawaii, HAW, Mt West, 35, AF, 0
