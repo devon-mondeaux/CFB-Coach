@@ -38,7 +38,7 @@ Purdue, PUR, Big Ten, 50, IND, 2
 Wisconsin, WIS, Big Ten, 79, MIN, 2
 [END_CONF]
 Baylor, BAY, Big 12, 42, TCU, 1
-Houston, HOU, Big 12, 55, TTEC, 1
+West Virgina, WVU, Big 12, 55, TTEC, 1
 Iowa State, ISU, Big 12, 65, MIZ, 1
 Texas Tech, TTEC, Big 12, 50, HOU, 1
 Kansas, KAN, Big 12, 35, KSU, 1
@@ -85,9 +85,9 @@ Notre Dame, ND, American, 78, WVU, 2
 Rutgers, RUT, American, 42, MARY, 3
 South Florida, USF, American, 70, UCF, 3
 Syracuse, SYR, American, 48, UCON, 3
-Temple, TEM, American, 43, BC, 3
+Temple, TEM, American, 120, BC, 3
 UConn, UCON, American, 40, SYR, 3
-West Virginia, WVU, American, 74, ND, 2
+Houston, HOU, American, 74, ND, 2
 [END_CONF]
 Akron, AKR, MAC, 35, KNST, 2
 Ball State, BAL, MAC, 28, NIU, 2
