@@ -61,7 +61,7 @@ UCLA,UCLA,Pac-12,50,USC,0
 USC,USC,Pac-12,80,UCLA,0
 Washington,WASH,Pac-12,78,WSU,0
 Washington State,WSU,Pac-12,72,WASH,0
-Utah,UTAH,Pac-12,69,COL,0
+Utah,UTAH,Pac-12,120,BYU,30
 [END_CONF]
 Alabama,BAMA,SEC,90,AUB,4
 Arkansas,ARK,SEC,55,LSU,4
@@ -117,7 +117,7 @@ Western Kentucky,WKU,Conf USA,44,ECU,4
 [END_CONF]
 Air Force,AF,Mt West,42,HAW,0
 Boise State,BOIS,Mt West,64,SDSU,0
-BYU,BYU,Mt West,32,UTST,0
+BYU,BYU,Mt West,32,UTAH,0
 Colorado State,CSU,Mt West,47,WYO,0
 Fresno State,FRES,Mt West,42,SJSU,0
 Hawaii,HAW,Mt West,35,AF,0
