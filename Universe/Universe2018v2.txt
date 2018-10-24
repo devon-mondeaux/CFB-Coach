@@ -53,7 +53,7 @@ Missouri,MIZ,Big 12,53,ISU,1
 Arizona,ARIZ,Pac-12,58,ASU,0
 Arizona State,ASU,Pac-12,64,ARIZ,0
 California,CAL,Pac-12,52,STAN,0
-Colorado,COL,Pac-12,57,UTAH,0
+Colorado,COL,Pac-12,57,STAN,0
 Oregon,OREG,Pac-12,70,ORST,0
 Oregon State,ORST,Pac-12,45,OREG,0
 Stanford,STAN,Pac-12,79,CAL,0
@@ -61,7 +61,7 @@ UCLA,UCLA,Pac-12,50,USC,0
 USC,USC,Pac-12,80,UCLA,0
 Washington,WASH,Pac-12,78,WSU,0
 Washington State,WSU,Pac-12,72,WASH,0
-Utah,UTAH,Pac-12,69,COL,0
+Utah,UTAH,Pac-12,120,BYU,0
 [END_CONF]
 Alabama,BAMA,SEC,90,AUB,4
 Arkansas,ARK,SEC,55,LSU,4
@@ -117,7 +117,7 @@ Western Kentucky,WKU,Conf USA,44,ECU,4
 [END_CONF]
 Air Force,AF,Mt West,42,HAW,0
 Boise State,BOIS,Mt West,64,SDSU,0
-BYU,BYU,Mt West,32,UTST,0
+BYU,BYU,Mt West,95,UTAH,0
 Colorado State,CSU,Mt West,47,WYO,0
 Fresno State,FRES,Mt West,42,SJSU,0
 Hawaii,HAW,Mt West,35,AF,0
@@ -125,7 +125,7 @@ Nevada,NEV,Mt West,35,NMEX,0
 New Mexico,NMEX,Mt West,38,NEV,1
 San Diego State,SDSU,Mt West,64,BOIS,0
 San Jose State,SJSU,Mt West,29,FRES,0
-Utah State,UTST,Mt West,42,BYU,0
+Utah State,UTST,Mt West,42,CSU,0
 Wyoming,WYOM,Mt West,45,CSU,0
 [END_CONF]
 Appalachian State,APP,Sun Belt,42,ODOM,2
