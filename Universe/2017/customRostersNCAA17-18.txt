@@ -7047,7 +7047,7 @@ Utah,Mitch Wishnowsky,K,3,10
 Utah,Hayes Hicken,K,2,5
 Utah,Kavika Luafatasaga,LB,4,8
 Utah,Sunia Tauteoli,LB,4,8
-Utah,Cody Barton,LB,3,7
+Utah,Cody Barton,LB,4,10
 Utah,Karsen Liljenquist,LB,3,6
 Utah,Cody Ippolito,LB,4,6
 Utah,Donavan Thompson,LB,2,4
@@ -7064,21 +7064,20 @@ Utah,Scott Peck,OL,1,5
 Utah,Michael Richardson,OL,1,5
 Utah,Kyle Lanterman,OL,2,5
 Utah,Keven Dixon,OL,2,5
-Utah,Tyler Huntley,QB,2,7
-Utah,Troy Williams,QB,4,7
+Utah,Tyler Huntley,QB,2,8
+Utah,Jack Tuttle,QB,1,8
 Utah,Cooper Bateman,QB,4,6
-Utah,Zack Moss,RB,2,5
+Utah,Zack Moss,RB,3,10
 Utah,Jordan Howard,RB,4,5
 Utah,Armand Shyne,RB,3,5
 Utah,Devonta'e Henry-cole,RB,2,4
 Utah,TJ Green,RB,1,4
-Utah,Chase Hansen,S,3,9
+Utah,Chase Hansen,S,4,10
 Utah,Corrion Ballard,S,3,7
 Utah,Terrell Burgess,S,2,5
 Utah,Boobie Hobbs,S,4,5
 Utah,Philip Afia,S,2,5
 Utah,Casey Hughes,S,3,4
-Utah,Harrison Handley,TE,4,6
 Utah,Siale Fakailoaton,TE,4,6
 Utah,Chad Hekking,TE,1,4
 Utah,Bapa Falemaka,TE,1,4
@@ -7091,7 +7090,7 @@ Utah,Demari Simpkins,WR,2,6
 Utah,Alec Dana,WR,3,6
 Utah,Samson Nacua,WR,1,6
 Utah,Bryan Thompson,WR,1,5
-Utah,Tyquez Hampton,WR,1,5
+Utah,Britain Covey,WR,2,10
 Utah,Derrick Vickers,WR,3,5
 Utah State,Jalen Davis,CB,4,7
 Utah State,Cameron Haney,CB,2,5
