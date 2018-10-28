@@ -61,7 +61,7 @@ UCLA, UCLA, Pac-12, 54, USC, 0
 USC, USC, Pac-12, 80, UCLA, 0
 Washington, WASH, Pac-12, 77, WSU, 0
 Washington State, WSU, Pac-12, 74, WASH, 0
-Utah, UTAH, Pac-12, 67, COL, 0
+Utah, UTAH, Pac-12, 110, COL, 0
 [END_CONF]
 Alabama, BAMA, SEC, 90, AUB, 4
 Arkansas, ARK, SEC, 55, LSU, 4
